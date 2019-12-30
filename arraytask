@@ -1,0 +1,3 @@
+mystr = ["harish","guvi","zen","javascript","python"]
+minlen = mystr.filter(a=>a.length<4);
+console.log(minlen);
